@@ -28,8 +28,8 @@ This site is ideal for practice in frontend development, static site deployment,
 
 ### Links
 
-- Solution URL: [View Code](https://github.com/Ramelzkie96/hotel-website.git)
-- Live Site URL: [Live Site](https://static-hotel-web.netlify.app/)
+- Solution URL: [View Code](https://github.com/Ramelzkie96/sneakers.git)
+- Live Site URL: [Live Site](https://sneaker-page.netlify.app/)
 
 ## My process
 
